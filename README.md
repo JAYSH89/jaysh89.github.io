@@ -41,6 +41,10 @@ Then clone it to your local machine and run:
 $ bundle
 ```
 
+```console
+$ bundle exec jekyll serve --watch
+```
+
 ## Usage
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
